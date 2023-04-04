@@ -1,0 +1,16 @@
+# configura.txt
+
+## LINKS:
+FIRST AND OTHERWISE Creating a DOOM (Wolfenstein) - style 3D Game in Python: https://www.youtube.com/watch?v=ECqUrT7IdqQ&t=199s
+
+https://www.youtube.com/watch?v=KdYTvqZmyBk&list=PLi77irUVkDasNAYQPr3N8nVcJLQAlANva
+https://www.google.com/search?q=doom.wad+descargar&client=firefox-b-d&sxsrf=APwXEdc-P3rJf_NpR0vhmC1DHWHy1RUqJA%3A1680557472571&ei=oEUrZNK7IsrOkPIPip2toA8&oq=DOOM.WAD&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMggIABCABBDLATIICAAQgAQQywEyCAgAEIAEEMsBMggIABCABBDLATIFCAAQgAQyBQgAEIAEMggIABCABBDLATIFCAAQgAQyCAgAEIAEEMsBOgoIABBHENYEELADOgQIIxAnOggILhCKBRCRAjoLCC4QigUQ1AIQkQI6CwguEIAEEMcBENEDOgUILhCABDoHCAAQigUQQzoICAAQigUQkQI6BwguEIoFEEM6CgguEIoFENQCEEM6CwguEIoFEJECEOoEOgYIABAWEB46CAgAEBYQHhAKOgcIABANEIAEOgYIABAeEA06CAgAEB4QDRAKOggIABAIEB4QDToLCAAQigUQhgMQiwM6BQghEKABOggIIRAWEB4QHToECCEQFToKCCEQFhAeEA8QHToFCAAQogQ6CAghEKABEMMEOgsILhDHARDRAxCABDoKCC4QigUQQxDqBDoHCCMQ6gIQJzoPCAAQigUQ6gIQtAIQQxgBOg0IABCKBRCRAhBGEP8BOgsILhCABBDLARDqBDoICC4QgAQQywE6BwgAEIAEEApKBAhBGABQoi9Y1tWfBGDI8p8EaBZwAXgCgAG3A4gBgTmSAQo1LjQyLjEuMi4xmAEAoAEBsAEUyAEIuAECwAEB2gEGCAEQARgB&sclient=gws-wiz-serp
+https://archive.org/details/2020_03_22_DOOM
+https://archive.org/search?query=subject%3A%22DOOM%22
+https://archive.org/details/MAKMYDAY
+
+
+## Using python 3.10
+## Instalaciones
+	pip install pygame
+	pip install numba
